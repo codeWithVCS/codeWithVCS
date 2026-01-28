@@ -1,15 +1,114 @@
-# 💫 About Me:
-I am a Java Backend Developer with close to 3 years of experience, specializing in building scalable, secure, and production-grade backend systems using Java, Spring Boot, and related technologies. My core expertise lies in designing clean layered architectures, developing RESTful APIs, implementing authentication and authorization mechanisms, and ensuring code quality through best practices.<br><br>I have hands-on experience with Spring Core, Spring Boot, Spring Security (JWT, role-based access control), Spring Data JPA, Hibernate, SQL, and REST API design. I follow strong software engineering principles such as SOLID, clean code, and separation of concerns, and I am comfortable working with real-world backend concepts like exception handling, validation, pagination, logging, and API documentation.<br><br>I am highly process-driven, detail-oriented, and focused on building backend systems that are maintainable, testable, and ready for production. Currently, I am strengthening my expertise across microservices, messaging systems, performance optimization, and cloud-readiness to operate effectively at a mid-level backend engineer (SDE-2) capacity.
+# Hi, I’m Chandra Sekhar 👋  
+
+Java Backend Developer focused on building **clean, scalable, and maintainable server-side systems** using **Java, Spring, and Spring Boot**.
+
+I specialize in backend engineering fundamentals — designing RESTful APIs, applying layered architectures, working with relational databases, and writing code that is readable, testable, and production-oriented. My approach prioritizes correctness, clarity, and long-term maintainability over shortcuts.
+
+---
+
+## 🧠 Professional Summary
+
+I am a Java Backend Developer with hands-on experience in building backend applications using the Spring ecosystem. My core strengths lie in **Spring Boot application development**, **REST API design**, **database interaction using JPA/Hibernate**, and **secure authentication using JWT-based Spring Security**.
+
+I have a strong grasp of **object-oriented design principles**, **SOLID principles**, and standard backend engineering practices such as proper exception handling, validation, logging, and clean layering (Controller → Service → Repository).
+
+Previously associated with **Wipro**, where I was exposed to enterprise-grade environments and development workflows. I am currently focused on deepening my practical expertise through **hands-on backend projects**, strengthening system design fundamentals, and preparing for **backend engineering roles** where I can contribute to real-world, production systems.
+
+---
+
+## 🛠️ Technical Skills
+
+### **Core Languages**
+- Java (strong command over OOP, collections, exceptions, multithreading basics)
+- SQL (joins, subqueries, indexing, transactions)
+
+### **Frameworks & Backend Stack**
+- Spring Core (IoC, Dependency Injection)
+- Spring Boot (application configuration, profiles, REST APIs)
+- Spring Data JPA (ORM, entity mapping, repositories)
+- Spring Security (JWT-based authentication & authorization)
+- Hibernate (ORM fundamentals)
+
+### **Architecture & Design**
+- RESTful API design
+- Layered architecture (Controller, Service, Repository)
+- SOLID principles and clean code practices
+- Backend-focused Low-Level Design (LLD)
+- Basic High-Level Design (HLD) concepts
+
+### **Databases**
+- Relational databases (MySQL / PostgreSQL concepts)
+- Schema design and normalization
+- Query optimization basics
+
+### **Dev Tools & Ecosystem**
+- Git & GitHub (branching, commits, tags, collaboration)
+- Maven (dependency management, multi-module basics)
+- IntelliJ IDEA
+- Docker (basics, containerized backend apps)
+- Swagger / OpenAPI (API documentation)
+
+### **Testing & Quality**
+- JUnit
+- Mockito (basics)
+- Manual and API-level testing mindset
+
+---
+
+## 🚀 Key Backend Projects
+
+### **Debt Ledger**
+🔗 https://github.com/codeWithVCS/DebtLedger  
+
+A backend-centric financial tracking system designed to manage debts, EMIs, and repayment schedules with a strong emphasis on data correctness and clean API design.
+
+**Highlights:**
+- Designed and implemented RESTful APIs using Spring Boot
+- Clean layered architecture (Controller → Service → Repository)
+- Relational data modeling for debts, EMIs, and yearly/monthly summaries
+- Robust exception handling and validation
+- Aggregation-based endpoints for financial insights (yearly and monthly views)
+- Fully documented and structured for maintainability
+
+**Tech Stack:**  
+Java, Spring Boot, Spring Data JPA, SQL, Hibernate, Maven, Git
+
+---
+
+### **Internal Service Desk**
+🔗 https://github.com/codeWithVCS/internal-service-desk  
+
+An enterprise-style backend service simulating an internal service desk system with secure authentication, role-based access, and production-grade backend practices.
+
+**Highlights:**
+- JWT-based authentication and authorization using Spring Security
+- Clear separation of concerns across controllers, services, and repositories
+- Centralized global exception handling
+- Swagger/OpenAPI integration for API documentation
+- Designed with enterprise backend patterns and extensibility in mind
+- Focus on maintainable, readable, and scalable backend code
+
+**Tech Stack:**  
+Java, Spring Boot, Spring Security (JWT), Spring Data JPA, SQL, Hibernate, Maven, Git
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chandrasekhar_vcs) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/chandra-sekhar-vipparla/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:code.chandrasekhar@gmail.com) 
+---
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=codeWithVCS&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=codeWithVCS&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=codeWithVCS&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🎯 Current Focus
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- Strengthening backend fundamentals through **hands-on implementation**
+- Improving **system design thinking** for backend services
+- Writing **production-ready Spring Boot applications**
+- Preparing for **Java Backend / Spring Boot roles**
+
+---
+
+## 📫 Connect With Me
+
+- **LinkedIn:** https://www.linkedin.com/in/chandra-sekhar-vipparla/
+- **Email (Primary):** vipparlachandrasekhar@gmail.com  
+- **Email (Code / Projects):** code.chandrasekhar@gmail.com
+
+---
+
+> I believe in learning by building, understanding systems end-to-end, and writing backend code that can survive real production usage.
