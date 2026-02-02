@@ -57,51 +57,18 @@ Previously associated with **Wipro**, where I was exposed to enterprise-grade en
 
 ## 🚀 Key Backend Projects
 
-### **Debt Ledger**
-🔗 https://github.com/codeWithVCS/DebtLedger  
-
+### **Debt Ledger** - https://github.com/codeWithVCS/DebtLedger  
 A backend-centric financial tracking system designed to manage debts, EMIs, and repayment schedules with a strong emphasis on data correctness and clean API design.
 
-**Highlights:**
-- Designed and implemented RESTful APIs using Spring Boot
-- Clean layered architecture (Controller → Service → Repository)
-- Relational data modeling for debts, EMIs, and yearly/monthly summaries
-- Robust exception handling and validation
-- Aggregation-based endpoints for financial insights (yearly and monthly views)
-- Fully documented and structured for maintainability
-
-**Tech Stack:**  
-Java, Spring Boot, Spring Data JPA, SQL, Hibernate, Maven, Git
-
 ---
 
-### **Internal Service Desk**
-🔗 https://github.com/codeWithVCS/internal-service-desk  
-
+### **Internal Service Desk** - https://github.com/codeWithVCS/internal-service-desk  
 An enterprise-style backend service simulating an internal service desk system with secure authentication, role-based access, and production-grade backend practices.
 
-**Highlights:**
-- JWT-based authentication and authorization using Spring Security
-- Clear separation of concerns across controllers, services, and repositories
-- Centralized global exception handling
-- Swagger/OpenAPI integration for API documentation
-- Designed with enterprise backend patterns and extensibility in mind
-- Focus on maintainable, readable, and scalable backend code
-
-**Tech Stack:**  
-Java, Spring Boot, Spring Security (JWT), Spring Data JPA, SQL, Hibernate, Maven, Git
-
-
 ---
 
-## 🎯 Current Focus
-
-- Strengthening backend fundamentals through **hands-on implementation**
-- Improving **system design thinking** for backend services
-- Writing **production-ready Spring Boot applications**
-- Preparing for **Java Backend / Spring Boot roles**
-
----
+### **world-api** - https://github.com/codeWithVCS/world-api
+A high-performance, granular RESTful API built with Spring Boot 3 and MySQL. This project transforms the legacy MySQL world database into a modern, searchable, and well-documented discovery engine for global geographical and demographic data.
 
 ## 📫 Connect With Me
 
