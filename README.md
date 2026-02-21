@@ -55,21 +55,6 @@ Previously associated with **Wipro**, where I was exposed to enterprise-grade en
 
 ---
 
-## 🚀 Key Backend Projects
-
-### **Debt Ledger** - https://github.com/codeWithVCS/DebtLedger  
-A backend-centric financial tracking system designed to manage debts, EMIs, and repayment schedules with a strong emphasis on data correctness and clean API design.
-
----
-
-### **Internal Service Desk** - https://github.com/codeWithVCS/internal-service-desk  
-An enterprise-style backend service simulating an internal service desk system with secure authentication, role-based access, and production-grade backend practices.
-
----
-
-### **world-api** - https://github.com/codeWithVCS/world-api
-A high-performance, granular RESTful API built with Spring Boot 3 and MySQL. This project transforms the legacy MySQL world database into a modern, searchable, and well-documented discovery engine for global geographical and demographic data.
-
 ## 📫 Connect With Me
 
 - **LinkedIn:** https://www.linkedin.com/in/chandra-sekhar-vipparla/
